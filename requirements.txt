@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-WTF  # 表单验证
+Flask-JWT-Extended
+marshmallow
+python-dotenv
+Flask-Admin
