@@ -61,3 +61,5 @@ admin.add_view(MyModelView(OrderReview, db.session))
 admin.add_view(MyModelView(Coupon, db.session))
 admin.add_view(MyModelView(UserCoupon, db.session))
 admin.add_view(MyModelView(FAQ, db.session))
+
+#第一次修改推送到github
