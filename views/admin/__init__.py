@@ -63,3 +63,4 @@ admin.add_view(MyModelView(UserCoupon, db.session))
 admin.add_view(MyModelView(FAQ, db.session))
 
 #第一次修改推送到github
+#第二次修改
